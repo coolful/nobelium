@@ -2,7 +2,7 @@ const BLOG = {
   title: 'IUSEXY',
   author: 'ZIJIAN',
   email: 'i@craigary.net',
-  link: 'nobelium-ten-omega.vercel.app',
+  link: 'iusexy.com',
   description: 'This gonna be an awesome website.',
   lang: 'en-US', // ['en-US', 'zh-CN', 'zh-HK', 'zh-TW', 'ja-JP', 'es-ES']
   appearance: 'auto', // ['light', 'dark', 'auto'],
