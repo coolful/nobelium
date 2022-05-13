@@ -1,7 +1,7 @@
 const BLOG = {
   title: 'IUSEXY',
   author: 'ZIJIAN',
-  email: 'i@craigary.net',
+  email: '',
   link: 'iusexy.com',
   description: 'This gonna be an awesome website.',
   lang: 'en-US', // ['en-US', 'zh-CN', 'zh-HK', 'zh-TW', 'ja-JP', 'es-ES']
