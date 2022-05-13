@@ -71,9 +71,9 @@ const Header = ({ navBarTitle, fullWidth }) => {
             <a aria-label={BLOG.title}>
               <div className="h-6">
                 <svg
-                  width="24"
-                  height="24"
-                  viewBox="0 0 24 24"
+                  width="240"
+                  height="75"
+                  viewBox="0 0 240 75"
                   fill="none"
                   xmlns="http://www.w3.org/2000/svg"
                 >
